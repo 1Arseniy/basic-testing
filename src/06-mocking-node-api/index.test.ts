@@ -1,5 +1,7 @@
 // Uncomment the code below and write your tests
-// import { readFileAsynchronously, doStuffByTimeout, doStuffByInterval } from '.';
+import {
+  /* readFileAsynchronously,  */ doStuffByTimeout /* doStuffByInterval */,
+} from '.';
 
 describe('doStuffByTimeout', () => {
   beforeAll(() => {
